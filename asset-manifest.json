@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a1bee3b.css",
-    "main.js": "/static/js/main.dc5b3d67.js",
-    "static/js/787.210b5229.chunk.js": "/static/js/787.210b5229.chunk.js",
-    "index.html": "/index.html",
-    "main.1a1bee3b.css.map": "/static/css/main.1a1bee3b.css.map",
-    "main.dc5b3d67.js.map": "/static/js/main.dc5b3d67.js.map",
-    "787.210b5229.chunk.js.map": "/static/js/787.210b5229.chunk.js.map"
+    "main.css": "/zeta-orderbook/static/css/main.1a1bee3b.css",
+    "main.js": "/zeta-orderbook/static/js/main.cf633d0d.js",
+    "static/js/787.210b5229.chunk.js": "/zeta-orderbook/static/js/787.210b5229.chunk.js",
+    "index.html": "/zeta-orderbook/index.html",
+    "main.1a1bee3b.css.map": "/zeta-orderbook/static/css/main.1a1bee3b.css.map",
+    "main.cf633d0d.js.map": "/zeta-orderbook/static/js/main.cf633d0d.js.map",
+    "787.210b5229.chunk.js.map": "/zeta-orderbook/static/js/787.210b5229.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a1bee3b.css",
-    "static/js/main.dc5b3d67.js"
+    "static/js/main.cf633d0d.js"
   ]
 }
