@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zeta-orderbook/static/css/main.204528f8.css",
+    "main.css": "/zeta-orderbook/static/css/main.09a0892e.css",
     "main.js": "/zeta-orderbook/static/js/main.cf633d0d.js",
     "static/js/787.210b5229.chunk.js": "/zeta-orderbook/static/js/787.210b5229.chunk.js",
     "index.html": "/zeta-orderbook/index.html",
-    "main.204528f8.css.map": "/zeta-orderbook/static/css/main.204528f8.css.map",
+    "main.09a0892e.css.map": "/zeta-orderbook/static/css/main.09a0892e.css.map",
     "main.cf633d0d.js.map": "/zeta-orderbook/static/js/main.cf633d0d.js.map",
     "787.210b5229.chunk.js.map": "/zeta-orderbook/static/js/787.210b5229.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.204528f8.css",
+    "static/css/main.09a0892e.css",
     "static/js/main.cf633d0d.js"
   ]
 }
