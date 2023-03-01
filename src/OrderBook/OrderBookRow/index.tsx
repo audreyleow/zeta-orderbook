@@ -61,7 +61,7 @@ export const OrderBookItem = ({
   <div
     className={`order-book__item ${
       isPrice ? "order-book__item--price" : ""
-    } ${className}`}
+    } ${className ?? ""}`}
     {...rest}
   >
     {children}

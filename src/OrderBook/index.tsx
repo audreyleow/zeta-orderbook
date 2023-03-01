@@ -17,7 +17,7 @@ export default function OrderBook({
   const { data } = useOrderBook({ currency, marketIndex });
 
   return (
-    <div className={`order-book ${className}`} {...rest}>
+    <div className={`order-book ${className ?? ""}`} {...rest}>
       {!data ? (
         <div className="order-book__loader">Loading...</div>
       ) : (
