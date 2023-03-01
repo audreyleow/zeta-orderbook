@@ -1,0 +1,21 @@
+.order-book {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  width: 100%;
+  font-weight: 500;
+  background: #000000;
+  color: #FFFFFF;
+}
+
+@media only screen and (max-width: 600px) {
+  .order-book {
+    flex-wrap: wrap;
+  }
+}
+
+.order-book__loader {
+  width: 100%;
+  text-align: center;
+  align-self: center;
+}

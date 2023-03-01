@@ -1,0 +1,24 @@
+.order-book__single {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+}
+
+.order-book__rows {
+  overflow: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.order-book__rows::-webkit-scrollbar {
+  display: none;
+}
+
+.order-book__item--header {
+  font-weight: 900;
+}
+
+.order-book__title {
+  padding: 0px 8px 0px 8px;
+}
